@@ -8,5 +8,7 @@ practice time series forecasting by electricity consumption forecasting in Paris
 - pandas
 - numpy 
 - matplotlib
+- statsmodels
+- seaborn
 ## data
 Please download the data from https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption.
